@@ -28,6 +28,7 @@ jobs:
           - edge2
           - fydetab-duo
           - h88k
+          - h96-max-v58
           - indiedroid-nova
           - itx-3588j
           - nanopc-cm3588-nas
